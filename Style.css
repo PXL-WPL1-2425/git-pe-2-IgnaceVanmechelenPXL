@@ -5,6 +5,23 @@ ul {
 }
 li {
     float: left;
-    width: 33%;
+    width: 33.3%;
     text-align: center;
+}
+.flex-container {
+    color: white;
+    font-size: 14pt;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    align-content: space-around;
+}
+a:link {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+a:visited {
+    color: white;
 }
