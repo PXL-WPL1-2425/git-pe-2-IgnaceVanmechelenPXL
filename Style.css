@@ -26,13 +26,13 @@ a:link {
 a:visited {
     color: white;
 }
-/*#sign-in {*/
-/*    border-style: solid;*/
-/*    border-color: red;*/
-/*    border-radius: 20px;*/
-/*    background-color: red;*/
-/*    width: 70px;*/
-/*    text-align: center;*/
+#sign-in {
+    border-style: solid;
+    border-color: red;
+    border-radius: 20px;
+    background-color: red;
+    width: 70px;
+    text-align: center;
 }
 video {
     position: absolute;
