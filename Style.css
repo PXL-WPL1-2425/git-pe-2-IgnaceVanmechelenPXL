@@ -24,7 +24,7 @@ a:link {
     text-align: center;
 }
 a:visited {
-    color: black;
+    color: white;
 }
 #sign-in {
     border-style: solid;
@@ -33,5 +33,4 @@ a:visited {
     background-color: red;
     width: 70px;
     text-align: center;
-
 }
